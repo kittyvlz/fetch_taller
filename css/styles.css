@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+
+#title{
+background-color: #e35b07;
+color: #fff;
+display: flex;
+justify-content: center ;
+padding: 15px ;
+}
+
+#subtitle{
+    margin: 15px 16px 16px 15px;
+    color: #e35b07;
+    font-size: 1.5rem;
+}
+
+#container{
+    margin: 16px;
+}
